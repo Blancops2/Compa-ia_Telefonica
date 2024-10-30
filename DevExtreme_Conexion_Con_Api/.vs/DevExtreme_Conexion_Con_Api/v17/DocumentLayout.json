@@ -1,0 +1,643 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\controllers\\recarga_clscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\recarga_clscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\models\\recarga\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\recarga\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\models\\recarga\\recarga_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\recarga\\recarga_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\models\\cable_internet\\cable_internet_premium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\cable_internet\\cable_internet_premium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\controllers\\cbl_premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\cbl_premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\models\\cable_internet\\cable_internet_basico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\cable_internet\\cable_internet_basico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\data\\devextreme-conexion-con_apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\data\\devextreme-conexion-con_apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\app_start\\devextremebundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\app_start\\devextremebundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\models\\tecnologia\\celular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\tecnologia\\celular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\models\\tecnologia\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\tecnologia\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\models\\tecnologia\\computadoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\tecnologia\\computadoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\controllers\\computadorascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\computadorascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\controllers\\celularcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\celularcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\controllers\\promocionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\promocionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\controllers\\fibra_opticacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\fibra_opticacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\controllers\\antena_satelitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\antena_satelitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\models\\internet_residencial\\antena_satelital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\internet_residencial\\antena_satelital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\models\\internet_residencial\\fibra_optica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\internet_residencial\\fibra_optica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\models\\internet_residencial\\planes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\internet_residencial\\planes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\models\\sampleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\sampleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|c:\\users\\yeison\\documents\\poo\\vs 2022\\devextreme_conexion_con_api\\devextreme_conexion_con_api\\models\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\models\\recarga\\superpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\recarga\\superpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\models\\promociones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\promociones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\controllers\\cable_internet_basicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\cable_internet_basicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\controllers\\cbl_normalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\cbl_normalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\models\\cable\\cbl_premium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\cable\\cbl_premium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\models\\cable\\cbl_normal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\cable\\cbl_normal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\models\\cable\\cbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\cable\\cbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\controllers\\cable_internet_premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\cable_internet_premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\controllers\\internet_ilimitadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\internet_ilimitadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\models\\recarga\\internet_ilimitado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\models\\recarga\\internet_ilimitado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\devextreme_conexion_con_api\\controllers\\superpackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E1FE5D-BCAE-4E85-87D0-643FEE6D99D5}|DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api.csproj|solutionrelative:devextreme_conexion_con_api\\controllers\\superpackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAN8BAAAAAAAAAAAAAOoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T16:20:25.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cbl_PremiumController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Cbl_PremiumController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\Cbl_PremiumController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Cbl_PremiumController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\Cbl_PremiumController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:38:11.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DevExtreme-Conexion-Con_ApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Data\\DevExtreme-Conexion-Con_ApiContext.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Data\\DevExtreme-Conexion-Con_ApiContext.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Data\\DevExtreme-Conexion-Con_ApiContext.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Data\\DevExtreme-Conexion-Con_ApiContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA8wCEAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:15:18.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recarga_Cls.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Recarga_Cls.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Recarga_Cls.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Recarga_Cls.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Recarga_Cls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:59:20.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paquete.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Paquete.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Paquete.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Paquete.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Paquete.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:58:36.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cable_Internet_Premium.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cable_Internet\\Cable_Internet_Premium.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Cable_Internet\\Cable_Internet_Premium.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cable_Internet\\Cable_Internet_Premium.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Cable_Internet\\Cable_Internet_Premium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:25:56.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T03:41:14.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recarga_ClsController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Recarga_ClsController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\Recarga_ClsController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Recarga_ClsController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\Recarga_ClsController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwBUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:16:50.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cable_Internet_Basico.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cable_Internet\\Cable_Internet_Basico.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Cable_Internet\\Cable_Internet_Basico.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cable_Internet\\Cable_Internet_Basico.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Cable_Internet\\Cable_Internet_Basico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:25:32.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DevExtremeBundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\App_Start\\DevExtremeBundleConfig.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\App_Start\\DevExtremeBundleConfig.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\App_Start\\DevExtremeBundleConfig.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\App_Start\\DevExtremeBundleConfig.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:52:43.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Celular.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Celular.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Celular.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Celular.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Celular.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:19:59.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dispositivo.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Dispositivo.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Dispositivo.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Dispositivo.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Dispositivo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:19:19.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:20:12.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Computadoras.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Computadoras.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Computadoras.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Computadoras.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Tecnologia\\Computadoras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:19:40.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CelularController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\CelularController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\CelularController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\CelularController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\CelularController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwFkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:21:21.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ComputadorasController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\ComputadorasController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\ComputadorasController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\ComputadorasController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\ComputadorasController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAFoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:22:48.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PromocionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\PromocionesController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\PromocionesController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\PromocionesController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\PromocionesController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:42:36.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Planes.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Planes.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Planes.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Planes.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Planes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:57:02.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Fibra_Optica.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Fibra_Optica.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Fibra_Optica.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Fibra_Optica.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Fibra_Optica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:57:23.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Antena_Satelital.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Antena_Satelital.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Antena_Satelital.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Antena_Satelital.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Internet_Residencial\\Antena_Satelital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:57:43.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Antena_SatelitalController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Antena_SatelitalController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\Antena_SatelitalController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Antena_SatelitalController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\Antena_SatelitalController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAFUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:59:06.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Fibra_OpticaController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Fibra_OpticaController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\Fibra_OpticaController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Fibra_OpticaController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\Fibra_OpticaController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAowFkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:01:27.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SuperPack.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Recarga\\SuperPack.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Recarga\\SuperPack.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Recarga\\SuperPack.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Recarga\\SuperPack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:59:43.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Promociones.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Promociones.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Promociones.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Promociones.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Promociones.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:02:39.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cliente.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:14:29.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SampleData.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\SampleData.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\SampleData.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\SampleData.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\SampleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:52:00.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SampleOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\SampleOrder.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\SampleOrder.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\SampleOrder.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\SampleOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:52:25.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cbl_Normal.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl_Normal.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl_Normal.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl_Normal.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl_Normal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:34:37.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cable_Internet_BasicoController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Cable_Internet_BasicoController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\Cable_Internet_BasicoController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Cable_Internet_BasicoController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\Cable_Internet_BasicoController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAuwFkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:27:22.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cbl_Premium.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl_Premium.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl_Premium.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl_Premium.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl_Premium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:35:00.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Cbl_NormalController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Cbl_NormalController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\Cbl_NormalController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Cbl_NormalController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\Cbl_NormalController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAqwEgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:36:37.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Cbl.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Cable\\Cbl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:34:12.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cable_Internet_PremiumController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Cable_Internet_PremiumController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\Cable_Internet_PremiumController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Cable_Internet_PremiumController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\Cable_Internet_PremiumController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAuwFkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:29:03.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Internet_IlimitadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Internet_IlimitadoController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\Internet_IlimitadoController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\Internet_IlimitadoController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\Internet_IlimitadoController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAuwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:14:06.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Content\\bootstrap.css",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Content\\bootstrap.css",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAQwN0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-19T02:55:07.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Internet_Ilimitado.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Internet_Ilimitado.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Internet_Ilimitado.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Internet_Ilimitado.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Models\\Recarga\\Internet_Ilimitado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:59:01.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SuperPacksController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\SuperPacksController.cs",
+              "RelativeDocumentMoniker": "DevExtreme_Conexion_Con_Api\\Controllers\\SuperPacksController.cs",
+              "ToolTip": "C:\\Users\\Yeison\\Documents\\POO\\Vs 2022\\DevExtreme_Conexion_Con_Api\\DevExtreme_Conexion_Con_Api\\Controllers\\SuperPacksController.cs",
+              "RelativeToolTip": "DevExtreme_Conexion_Con_Api\\Controllers\\SuperPacksController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:03:34.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
